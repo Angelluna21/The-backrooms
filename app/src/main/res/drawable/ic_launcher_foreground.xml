@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Corridor Walls Perspective (Liminal yellow) -->
+    <!-- Left wall -->
+    <path
+        android:fillColor="#E6C84F"
+        android:pathData="M24,24 L44,40 L44,76 L24,84 Z" />
+    <path
+        android:fillColor="#805C10"
+        android:pathData="M24,24 L44,40 L44,43 L24,27 Z" />
+    <!-- Right wall -->
+    <path
+        android:fillColor="#D4B53D"
+        android:pathData="M84,24 L64,40 L64,76 L84,84 Z" />
+    <path
+        android:fillColor="#73520E"
+        android:pathData="M84,24 L64,40 L64,43 L84,27 Z" />
+    <!-- Ceiling -->
+    <path
+        android:fillColor="#EFE5B5"
+        android:pathData="M24,24 L84,24 L64,40 L44,40 Z" />
+    <!-- Fluorescent Light Fixture on Ceiling -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M48,27 L60,27 L58,35 L50,35 Z" />
+    <!-- Fluorescent light glow / beam -->
+    <path
+        android:fillColor="#4DFFF59D"
+        android:pathData="M48,35 L60,35 L68,76 L40,76 Z" />
+    <!-- Floor (damp dirty carpet) -->
+    <path
+        android:fillColor="#8C783E"
+        android:pathData="M24,84 L44,76 L64,76 L84,84 Z" />
+    <!-- Dark Doorway / Beyond -->
+    <path
+        android:fillColor="#121008"
+        android:pathData="M44,40 L64,40 L64,76 L44,76 Z" />
+    <!-- Ominous Entity Eyes / Silhouette inside doorway -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M50,52 C50,51 51,50 52,50 C53,50 54,51 54,52 C54,53 53,54 52,54 C51,54 50,53 50,52 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M56,52 C56,51 57,50 58,50 C59,50 60,51 60,52 C60,53 59,54 58,54 C57,54 56,53 56,52 Z" />
+    <!-- VHS REC Dot top right -->
+    <path
+        android:fillColor="#FF2A2A"
+        android:pathData="M76,30 A3,3 0 1,1 70,30 A3,3 0 1,1 76,30" />
+</vector>

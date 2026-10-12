@@ -1,0 +1,6 @@
+{
+  "name": "The Backrooms",
+  "description": "Juego de supervivencia y exploración en primera persona en las liminales trastiendas, inspirado en vídeos de metraje encontrado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
